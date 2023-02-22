@@ -1,0 +1,4 @@
+Project: Word 4 Word Unity Game
+Duration: 2022/06/11-2022/07/28
+Buget: 1000USD
+Description: 2D Unity Word game simliar to wordler. Only unity used.
